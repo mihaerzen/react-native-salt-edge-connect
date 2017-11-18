@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "Salt edge connect react native implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihaerzen/react-native-salt-edge-connect.git"
+  },
+  "author": "Miha Erzen <miha.erzen1@gmail.com> (http://miha.website)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihaerzen/react-native-salt-edge-connect/issues"
+  },
+  "homepage": "https://github.com/mihaerzen/react-native-salt-edge-connect#readme"
+}
